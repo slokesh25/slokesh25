@@ -1,10 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=200&section=header&text=Lokesh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=220&section=header&text=Lokesh&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hey 👋 I'm Lokesh</h1>
 <h3 align="center">🚀 Python Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+Backend+Developer;Frontend+%2B+Backend+Developer;Building+Real+World+Projects" />
+  <img src="https://komarev.com/ghpvc/?username=slokesh25&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Python+Full+Stack+Developer;Django+Backend+Developer;Frontend+%2B+Backend+Developer;Building+Real+World+Projects;Open+to+Work" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -54,11 +62,27 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=slokesh25&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=slokesh25&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=slokesh25&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -71,4 +95,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer"/>
