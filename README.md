@@ -13,6 +13,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      min-height: 100vh;
       padding: 30px;
     }
 
@@ -29,17 +30,18 @@
       transition: transform 0.2s;
     }
 
-    /* 🔥 Shake effect */
+    /* 🔥 Improved Shake Effect */
     .card:hover {
-      animation: shake 0.3s;
+      animation: shake 0.4s ease-in-out infinite;
     }
 
     @keyframes shake {
-      0% { transform: translateX(0); }
-      25% { transform: translateX(-6px); }
-      50% { transform: translateX(6px); }
-      75% { transform: translateX(-6px); }
-      100% { transform: translateX(0); }
+      0% { transform: translate(0, 0); }
+      20% { transform: translate(-4px, 2px); }
+      40% { transform: translate(4px, -2px); }
+      60% { transform: translate(-4px, 2px); }
+      80% { transform: translate(4px, -2px); }
+      100% { transform: translate(0, 0); }
     }
 
     h1 {
@@ -81,6 +83,12 @@
       border-radius: 8px;
       margin-bottom: 10px;
       border-left: 4px solid #38bdf8;
+      transition: transform 0.2s;
+    }
+
+    /* ✨ Extra hover effect */
+    .skill-box:hover {
+      transform: scale(1.05);
     }
 
   </style>
@@ -105,8 +113,7 @@
     <h3>💡 Technical Skills</h3>
 
     <div class="skill-box">
-      <strong>Python:</strong> Object Oriented Programming (OOP), Exception Handling, File Handling, 
-      Data Structures (List, Tuple, Set, Dictionary)
+      <strong>Python:</strong> OOP, Exception Handling, File Handling, Data Structures
     </div>
 
     <div class="skill-box">
@@ -118,7 +125,7 @@
     </div>
 
     <div class="skill-box">
-      <strong>Backend Development:</strong> Python, Django, Django REST Framework
+      <strong>Backend:</strong> Python, Django, Django REST Framework
     </div>
 
     <div class="skill-box">
