@@ -32,29 +32,48 @@
 
 ## ⚙️ Tech Stack 💻
 
-### 🧠 Programming Languages
-<p>
-<img src="https://img.shields.io/badge/PYTHON-0f172a?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-0f172a?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+### 🚀 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-0f172a?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0f172a?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </p>
+
+<p align="center">
+  <img src="python.gif" width="120"/>
+</p>
+
+---
 
 ### 🎨 Frontend Development
-<p>
-<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=orange"/>
-<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=blue"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=blue"/>
 </p>
+
+<p align="center">
+  <img src="html.gif" width="120"/>
+  <img src="css.gif" width="120"/>
+</p>
+
+---
 
 ### 🗄️ Backend & Database
-<p>
-<img src="https://img.shields.io/badge/DJANGO-0f172a?style=for-the-badge&logo=django&logoColor=green"/>
-<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/DJANGO-0f172a?style=for-the-badge&logo=django&logoColor=green"/>
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/GIT-0f172a?style=for-the-badge&logo=git&logoColor=orange"/>
-<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_CODE-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+<p align="center">
+  <img src="sql.gif" width="120"/>
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-0f172a?style=for-the-badge&logo=git&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_CODE-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
 </p>
 
 ---
