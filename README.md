@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/python.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
 </p>
 
 ---
@@ -51,8 +51,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/html.gif" width="100"/>
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/css.gif" width="100"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"/>
 </p>
 
 ---
@@ -64,9 +64,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/sql.gif" width="100"/>
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/oracle-sql.gif" width="100"/>
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/django.gif" width="100"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </p>
 
 ---
@@ -79,9 +78,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/git.gif" width="100"/>
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/github.gif" width="100"/>
-  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/vscode.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
 </p>
 
 ---
