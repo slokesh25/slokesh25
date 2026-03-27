@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="python.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/python.gif" width="100"/>
 </p>
 
 ---
@@ -51,8 +51,8 @@
 </p>
 
 <p align="center">
-  <img src="html.gif" width="120"/>
-  <img src="css.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/html.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/css.gif" width="100"/>
 </p>
 
 ---
@@ -64,7 +64,9 @@
 </p>
 
 <p align="center">
-  <img src="sql.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/sql.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/oracle-sql.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/django.gif" width="100"/>
 </p>
 
 ---
@@ -74,6 +76,12 @@
   <img src="https://img.shields.io/badge/GIT-0f172a?style=for-the-badge&logo=git&logoColor=orange"/>
   <img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_CODE-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/git.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/github.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/slokesh25/main/vscode.gif" width="100"/>
 </p>
 
 ---
