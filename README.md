@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=220&section=header&text=Lokesh&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Lokesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">Hey 👋 I'm Lokesh</h1>
 <h3 align="center">🚀 Python Full Stack Developer | Django Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Python+Full+Stack+Developer;Django+Backend+Developer;Frontend+%2B+Backend+Developer;Building+Real+World+Projects;Open+to+Work+%F0%9F%92%BC" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-%2300C853?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=slokesh25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -14,7 +15,7 @@
 - 💻 Python Full Stack Developer  
 - 🔥 Strong in Frontend + Backend  
 - ⚡ Building scalable web applications  
-- 🧠 Good in problem solving & logic building  
+- 🧠 Problem solving & logical thinking  
 - 📍 Bangalore  
 - 📫 Email: s.lokesh2545@gmail.com  
 
@@ -50,14 +51,14 @@
 </p>
 
 ### 💡 Project Overview
-A Job Tracker web application built to manage and monitor job applications efficiently.
+A web app to track and manage job applications efficiently.
 
 ### ⚙️ Features
-✔ Add, Update, Delete job applications (CRUD)  
-✔ Track job status (Applied, Interview, Offer, Rejected)  
-✔ Responsive UI using HTML & CSS  
-✔ Backend validation using Django  
-✔ Manage multiple job applications easily  
+✔ CRUD operations (Add, Update, Delete)  
+✔ Job status tracking system  
+✔ Responsive UI  
+✔ Django backend validation  
+✔ Multi-job management  
 
 ### 🛠 Tech Used
 - Python  
@@ -89,27 +90,25 @@ A Job Tracker web application built to manage and monitor job applications effic
 ## 🧠 Skills
 
 ### 👨‍💻 Programming
-✔ Python (OOP, Exception Handling, Data Structures)
+✔ Python (OOP, Data Structures)
 
 ### 🌐 Web Development
-✔ HTML, CSS (Flexbox, Grid, Responsive Design)
+✔ HTML, CSS (Responsive Design)
 
 ### 🗄 Database
-✔ SQL (Joins, Subqueries, DDL, DML)
+✔ SQL  
 
 ### ⚙️ Backend
 ✔ Django  
 ✔ Django REST Framework  
 
 ### 🛠 Tools
-✔ Git  
-✔ GitHub  
-✔ VS Code  
+✔ Git, GitHub, VS Code  
 
 ---
 
 ## 🎯 Career Objective
-Aspiring Python Full Stack Developer seeking an entry-level opportunity to build real-world applications, contribute to innovative solutions, and enhance technical skills continuously.
+Aspiring Python Full Stack Developer looking for an entry-level role to build real-world applications and grow technically.
 
 ---
 
