@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Lokesh%20|%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 <h3 align="center">🚀 Aspiring Python Full Stack Developer</h3>
 
@@ -5,11 +7,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 BCA Student (2022 - 2025)
-- 💻 Passionate about Web Development
-- 🔥 Skilled in Full Stack (Frontend + Backend)
+- 🎓 Bachelor of Computer Applications (2022 - 2025)
+- 💻 Passionate about building scalable web applications
+- 🔥 Strong in Full Stack Development (Frontend + Backend)
 - 📍 Bangalore, India
-- 🎯 Looking for Entry-Level Developer Role
+- 🎯 Actively looking for Entry-Level Developer Role
 
 ---
 
@@ -32,22 +34,22 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Backend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### 🗄️ Database
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ⚙️ Tools
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -57,18 +59,18 @@
 
 ### 📌 Job Tracker Web Application
 
-- 🔹 Built using Python & Django
-- 🔹 CRUD Operations implemented
-- 🔹 Tracks job status (Applied, Interview, Offer, Rejected)
-- 🔹 Responsive UI using HTML & CSS
-- 🔹 SQL Database integration
+- 🔹 Built using Python & Django  
+- 🔹 CRUD operations (Create, Read, Update, Delete)  
+- 🔹 Job status tracking system  
+- 🔹 Responsive UI with HTML & CSS  
+- 🔹 SQL database integration  
 
 ---
 
 ## 📜 Certifications
 
-- ✔ Python Full Stack Development
-- ✔ Power Minds Soft Skill Training
+- ✔ Python Full Stack Development  
+- ✔ Power Minds Soft Skill Training  
 
 ---
 
@@ -89,16 +91,18 @@
 
 ---
 
-## 🎥 Developer Mode Animation
+## 🎥 Developer Animation (Premium)
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="550"/>
 </p>
 
 ---
 
-## ⚡ Fun Line
+## ⚡ Quote
 
-> 💡 "Code. Debug. Repeat. Build Something Amazing 🚀"
+<p align="center">
+<b>"Code. Build. Break. Fix. Repeat 🚀"</b>
+</p>
 
 ---
