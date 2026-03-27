@@ -1,31 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Lokesh%20|%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Lokesh%20|%20Python%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">🚀 Aspiring Python Full Stack Developer</h3>
+<h3 align="center">🐍 Python Full Stack Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Bachelor of Computer Applications (2022 - 2025)
-- 💻 Passionate about building scalable web applications
-- 🔥 Strong in Full Stack Development (Frontend + Backend)
-- 📍 Bangalore, India
-- 🎯 Actively looking for Entry-Level Developer Role
+<p align="center">
+💻 Passionate Python Developer <br>
+🎓 BCA (2022 - 2025) <br>
+🔥 Skilled in Full Stack Development (Frontend + Backend) <br>
+⚙️ Django | REST API | SQL <br>
+📍 Bangalore, India <br>
+🎯 Actively looking for Developer Role
+</p>
+
+---
+
+## 🎥 Python Developer Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="550"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/s-lokesh-25" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/s-lokesh-25">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:s.lokesh2545@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://github.com/slokesh25">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -33,24 +44,8 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### 🗄️ Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -59,18 +54,11 @@
 
 ### 📌 Job Tracker Web Application
 
-- 🔹 Built using Python & Django  
-- 🔹 CRUD operations (Create, Read, Update, Delete)  
+- 🔹 Built with Python & Django  
+- 🔹 CRUD operations implemented  
 - 🔹 Job status tracking system  
-- 🔹 Responsive UI with HTML & CSS  
+- 🔹 Responsive UI using HTML & CSS  
 - 🔹 SQL database integration  
-
----
-
-## 📜 Certifications
-
-- ✔ Python Full Stack Development  
-- ✔ Power Minds Soft Skill Training  
 
 ---
 
@@ -91,18 +79,17 @@
 
 ---
 
-## 🎥 Developer Animation (Premium)
+## 📜 Certifications
 
-<p align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="550"/>
-</p>
+- ✔ Python Full Stack Development  
+- ✔ Power Minds Soft Skill Training  
 
 ---
 
 ## ⚡ Quote
 
 <p align="center">
-<b>"Code. Build. Break. Fix. Repeat 🚀"</b>
+<b>"Eat 🍜 Code 💻 Sleep 😴 Repeat 🔁"</b>
 </p>
 
 ---
