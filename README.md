@@ -30,27 +30,31 @@
 
 ---
 
-## ⚙️ Tech Stack 🚀
+## ⚙️ Tech Stack 💻
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="60"/>
-<img src="https://skillicons.dev/icons?i=django" height="60"/>
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
-<img src="https://skillicons.dev/icons?i=js" height="60"/>
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-
+### 🧠 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </p>
 
----
+### 🎨 Frontend Development
+<p>
+<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=orange"/>
+<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=blue"/>
+</p>
 
-## 🔥 Tech Animation
+### 🗄️ Backend & Database
+<p>
+<img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=orange"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
 </p>
 
 ---
