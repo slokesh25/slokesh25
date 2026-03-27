@@ -1,90 +1,132 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=Lokesh%20%7C%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Python Full Stack Developer</title>
 
-<h1 align="center">👨‍💻 Lokesh</h1>
-<h3 align="center">Python Full Stack Developer 🚀</h3>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 30px;
+    }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Django-Backend-success?style=for-the-badge&logo=django"/>
-  <img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql"/>
-</p>
+    .container {
+      max-width: 800px;
+      width: 100%;
+    }
 
----
+    .card {
+      background: #1e293b;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 25px rgba(0,0,0,0.6);
+      transition: transform 0.2s;
+    }
 
-## 🔹 About Me
+    /* 🔥 Shake effect */
+    .card:hover {
+      animation: shake 0.3s;
+    }
 
-💡 Passionate about building real-world web applications  
-💻 Skilled in frontend & backend development  
-📍 Bangalore  
-📧 s.lokesh2545@gmail.com  
+    @keyframes shake {
+      0% { transform: translateX(0); }
+      25% { transform: translateX(-6px); }
+      50% { transform: translateX(6px); }
+      75% { transform: translateX(-6px); }
+      100% { transform: translateX(0); }
+    }
 
----
+    h1 {
+      text-align: center;
+      color: #38bdf8;
+      margin-bottom: 5px;
+    }
 
-# ⚡ Tech Stack
+    h2 {
+      text-align: center;
+      font-size: 18px;
+      color: #cbd5f5;
+      margin-bottom: 20px;
+    }
 
-<p align="center">
+    h3 {
+      margin-top: 25px;
+      color: #facc15;
+      border-bottom: 1px solid #334155;
+      padding-bottom: 5px;
+    }
 
-<img src="https://skillicons.dev/icons?i=python" height="60"/>
-<img src="https://skillicons.dev/icons?i=django" height="60"/>
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+    p {
+      line-height: 1.6;
+      font-size: 15px;
+    }
 
-</p>
+    ul {
+      padding-left: 20px;
+    }
 
----
+    li {
+      margin-bottom: 8px;
+    }
 
-# 🚀 Project
+    .skill-box {
+      background: #0f172a;
+      padding: 10px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      border-left: 4px solid #38bdf8;
+    }
 
-## 🔥 Job Tracker Web Application
+  </style>
+</head>
 
-<p align="center">
-<a href="https://github.com/slokesh25/python_django_job_tracker_project">
-<img src="https://img.shields.io/badge/🚀 View Project-00F7FF?style=for-the-badge"/>
-</a>
-</p>
+<body>
 
-### ⚙️ Features
-✔ CRUD Operations  
-✔ Job Status Tracking  
-✔ Responsive UI  
-✔ Django Backend Logic  
-✔ SQL Database  
+<div class="container">
+  <div class="card">
 
----
+    <h1>👨‍💻 Python Full Stack Developer</h1>
+    <h2>Aspiring Developer</h2>
 
-## 🎥 Project Demo
+    <h3>🎯 Objective</h3>
+    <p>
+      Aspiring Python Full Stack Developer with hands-on experience in building scalable web applications 
+      using Python, Django, Django REST Framework, SQL, and modern frontend technologies. 
+      Seeking an entry-level opportunity to contribute to innovative software solutions while continuously 
+      enhancing my technical and problem-solving skills.
+    </p>
 
-<p align="center">
-<a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" width="70%"/>
-</a>
-</p>
+    <h3>💡 Technical Skills</h3>
 
----
+    <div class="skill-box">
+      <strong>Python:</strong> Object Oriented Programming (OOP), Exception Handling, File Handling, 
+      Data Structures (List, Tuple, Set, Dictionary)
+    </div>
 
-## 🌐 Connect
+    <div class="skill-box">
+      <strong>Web Technologies:</strong> HTML, CSS (Flexbox, Grid, Responsive Design)
+    </div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/s-lokesh-25">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
-</a>
-<a href="https://github.com/slokesh25">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/>
-</a>
-</p>
+    <div class="skill-box">
+      <strong>Database:</strong> SQL (Oracle) – Joins, Subqueries, DDL, DML
+    </div>
 
----
+    <div class="skill-box">
+      <strong>Backend Development:</strong> Python, Django, Django REST Framework
+    </div>
 
-## 📊 GitHub Stats
+    <div class="skill-box">
+      <strong>Tools:</strong> Git, GitHub, VS Code
+    </div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=slokesh25&show_icons=true&theme=tokyonight"/>
-</p>
+  </div>
+</div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</body>
+</html>
