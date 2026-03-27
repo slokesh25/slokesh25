@@ -1,27 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Lokesh%20|%20Python%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Lokesh%20|%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">🐍 Python Full Stack Developer</h3>
+<h3 align="center">🚀 Python Full Stack Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
 <p align="center">
-💻 Passionate Python Developer <br>
+💻 Passionate Full Stack Developer <br>
 🎓 BCA (2022 - 2025) <br>
-🔥 Skilled in Full Stack Development (Frontend + Backend) <br>
-⚙️ Django | REST API | SQL <br>
+🔥 Skilled in Frontend & Backend Development <br>
 📍 Bangalore, India <br>
 🎯 Actively looking for Developer Role
 </p>
 
 ---
 
-## 🎥 Python Developer Mode
+## 🎥 Developer Mode
 
 <p align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="550"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="550"/>
 </p>
 
 ---
@@ -56,9 +55,9 @@
 
 - 🔹 Built with Python & Django  
 - 🔹 CRUD operations implemented  
-- 🔹 Job status tracking system  
-- 🔹 Responsive UI using HTML & CSS  
-- 🔹 SQL database integration  
+- 🔹 Job tracking system  
+- 🔹 Responsive UI  
+- 🔹 SQL database  
 
 ---
 
@@ -89,7 +88,7 @@
 ## ⚡ Quote
 
 <p align="center">
-<b>"Eat 🍜 Code 💻 Sleep 😴 Repeat 🔁"</b>
+<b>"Code. Build. Break. Fix. Repeat 🚀"</b>
 </p>
 
 ---
