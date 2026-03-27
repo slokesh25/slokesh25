@@ -1,139 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Python Full Stack Developer</title>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=200&section=header&text=Lokesh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(135deg, #0f172a, #1e293b);
-      color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      padding: 30px;
-    }
+<h1 align="center">Hey 👋 I'm Lokesh</h1>
+<h3 align="center">🚀 Python Full Stack Developer</h3>
 
-    .container {
-      max-width: 800px;
-      width: 100%;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+Backend+Developer;Frontend+%2B+Backend+Developer;Building+Real+World+Projects" />
+</p>
 
-    .card {
-      background: #1e293b;
-      padding: 30px;
-      border-radius: 15px;
-      box-shadow: 0 0 25px rgba(0,0,0,0.6);
-      transition: transform 0.2s;
-    }
+---
 
-    /* 🔥 Improved Shake Effect */
-    .card:hover {
-      animation: shake 0.4s ease-in-out infinite;
-    }
+## 🧑‍💻 About Me
+- 🎓 BCA Graduate  
+- 💻 Python Full Stack Developer  
+- 🔥 Strong in **Frontend + Backend**  
+- ⚡ Building scalable web applications  
+- 📫 Email: s.lokesh2545@gmail.com  
 
-    @keyframes shake {
-      0% { transform: translate(0, 0); }
-      20% { transform: translate(-4px, 2px); }
-      40% { transform: translate(4px, -2px); }
-      60% { transform: translate(-4px, 2px); }
-      80% { transform: translate(4px, -2px); }
-      100% { transform: translate(0, 0); }
-    }
+---
 
-    h1 {
-      text-align: center;
-      color: #38bdf8;
-      margin-bottom: 5px;
-    }
+## 🌐 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/s-lokesh-264572348">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/slokesh25">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-    h2 {
-      text-align: center;
-      font-size: 18px;
-      color: #cbd5f5;
-      margin-bottom: 20px;
-    }
+---
 
-    h3 {
-      margin-top: 25px;
-      color: #facc15;
-      border-bottom: 1px solid #334155;
-      padding-bottom: 5px;
-    }
+## ⚙️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode" />
+</p>
 
-    p {
-      line-height: 1.6;
-      font-size: 15px;
-    }
+---
 
-    ul {
-      padding-left: 20px;
-    }
+## 🚀 Featured Project
 
-    li {
-      margin-bottom: 8px;
-    }
+### 🔥 Job Tracker Web Application
+✔ Built with Python, Django & SQL  
+✔ CRUD operations implemented  
+✔ Job status tracking system  
+✔ Responsive UI using HTML & CSS  
+✔ Form validation & backend logic  
 
-    .skill-box {
-      background: #0f172a;
-      padding: 10px;
-      border-radius: 8px;
-      margin-bottom: 10px;
-      border-left: 4px solid #38bdf8;
-      transition: transform 0.2s;
-    }
+<p align="center">
+<a href="https://github.com/slokesh25/python_django_job_tracker_project">
+  <img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
 
-    /* ✨ Extra hover effect */
-    .skill-box:hover {
-      transform: scale(1.05);
-    }
+---
 
-  </style>
-</head>
+## 📊 GitHub Stats
 
-<body>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=slokesh25&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=slokesh25&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div class="container">
-  <div class="card">
+---
 
-    <h1>👨‍💻 Python Full Stack Developer</h1>
-    <h2>Aspiring Developer</h2>
+## 🧠 Skills
+✔ Frontend: HTML, CSS  
+✔ Backend: Python, Django  
+✔ Database: SQL  
+✔ Tools: Git, GitHub  
 
-    <h3>🎯 Objective</h3>
-    <p>
-      Aspiring Python Full Stack Developer with hands-on experience in building scalable web applications 
-      using Python, Django, Django REST Framework, SQL, and modern frontend technologies. 
-      Seeking an entry-level opportunity to contribute to innovative software solutions while continuously 
-      enhancing my technical and problem-solving skills.
-    </p>
+---
 
-    <h3>💡 Technical Skills</h3>
-
-    <div class="skill-box">
-      <strong>Python:</strong> OOP, Exception Handling, File Handling, Data Structures
-    </div>
-
-    <div class="skill-box">
-      <strong>Web Technologies:</strong> HTML, CSS (Flexbox, Grid, Responsive Design)
-    </div>
-
-    <div class="skill-box">
-      <strong>Database:</strong> SQL (Oracle) – Joins, Subqueries, DDL, DML
-    </div>
-
-    <div class="skill-box">
-      <strong>Backend:</strong> Python, Django, Django REST Framework
-    </div>
-
-    <div class="skill-box">
-      <strong>Tools:</strong> Git, GitHub, VS Code
-    </div>
-
-  </div>
-</div>
-
-</body>
-</html>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
