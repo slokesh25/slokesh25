@@ -4,9 +4,9 @@
 <h3 align="center">Python Full Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Python%20Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-Django-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Django-Backend-success?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql"/>
 </p>
 
 ---
@@ -14,32 +14,45 @@
 ## 🔹 About Me
 
 💡 Passionate about building real-world web applications  
-💻 Skilled in both frontend & backend development  
+💻 Skilled in frontend & backend development  
 📍 Bangalore  
 📧 s.lokesh2545@gmail.com  
 
 ---
 
-## 🛠 Skills
+# ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,mysql" />
+
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<img src="https://skillicons.dev/icons?i=django" height="60"/>
+<img src="https://skillicons.dev/icons?i=html" height="60"/>
+<img src="https://skillicons.dev/icons?i=css" height="60"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+
 </p>
 
 ---
 
-## 🚀 Project
+# 🚀 Project
 
-### 🔥 Job Tracker Web Application
+## 🔥 Job Tracker Web Application
 
-📌 A web app to manage and track job applications efficiently.
+<p align="center">
+<a href="https://github.com/slokesh25/python_django_job_tracker_project">
+<img src="https://img.shields.io/badge/🚀 View Project-00F7FF?style=for-the-badge"/>
+</a>
+</p>
 
 ### ⚙️ Features
-✔ Add / Update / Delete jobs  
-✔ Track status (Applied, Interview, Offer, Rejected)  
-✔ Clean UI with HTML & CSS  
-✔ Backend logic using Django  
-✔ SQL database integration  
+✔ CRUD Operations  
+✔ Job Status Tracking  
+✔ Responsive UI  
+✔ Django Backend Logic  
+✔ SQL Database  
 
 ---
 
