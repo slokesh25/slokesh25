@@ -30,9 +30,27 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack 🚀
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<img src="https://skillicons.dev/icons?i=django" height="60"/>
+<img src="https://skillicons.dev/icons?i=html" height="60"/>
+<img src="https://skillicons.dev/icons?i=css" height="60"/>
+<img src="https://skillicons.dev/icons?i=js" height="60"/>
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+
+</p>
+
+---
+
+## 🔥 Tech Animation
+
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </p>
 
 ---
