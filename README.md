@@ -34,8 +34,8 @@
 
 ### 🧠 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/PYTHON-0f172a?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0f172a?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </p>
 
 ### 🎨 Frontend Development
@@ -46,15 +46,15 @@
 
 ### 🗄️ Backend & Database
 <p>
-<img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/DJANGO-0f172a?style=for-the-badge&logo=django&logoColor=green"/>
 <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 <p>
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=orange"/>
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+<img src="https://img.shields.io/badge/GIT-0f172a?style=for-the-badge&logo=git&logoColor=orange"/>
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_CODE-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
 </p>
 
 ---
