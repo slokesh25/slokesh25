@@ -44,7 +44,7 @@
 ##  Backend & Database  
 
 <p>
- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="90" style="margin:10px"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="90"/>
 
   <!-- SQL (Database GIF) -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90" style="margin:10px"/>
