@@ -63,21 +63,11 @@
 </p>
 
 ---
-
 ### 🖥️ Frameworks
 <p align="center">
-  <!-- Django Logo with Glow Effect -->
-  <img src="https://img.icons8.com/color/96/django.png" alt="Django" style="filter: drop-shadow(0 0 10px #00ff99);" />
+  <!-- Django Animated Logo -->
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" alt="Django Logo"/>
 </p>
-
----
-
-## 🎬 Animated Coding GIF
-<p align="center">
-  <!-- Coding Animation -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
-</p>
-
 
 ##  Tools & Platforms  
 
