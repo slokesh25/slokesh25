@@ -2,11 +2,11 @@
 <h3 align="center">Full Stack Developer | Fresher 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Developer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I am a passionate <b>Full Stack Developer</b> eager to build scalable and effici
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ I am a passionate <b>Full Stack Developer</b> eager to build scalable and effici
 - Full CRUD operations  
 - SQL database integration  
 - Job status tracking system  
-- Clean UI with form validation  
+- Clean UI with validation  
 
 ---
 
@@ -92,15 +92,6 @@ I am a passionate <b>Full Stack Developer</b> eager to build scalable and effici
 
 - 🏆 Python Full Stack Development  
 - 🎯 Power Minds Soft Skill Training Certification  
-
----
-
-## 💡 What I’m Doing
-
-- 🚀 Improving backend development skills  
-- 💻 Building real-world projects  
-- 📚 Practicing problem solving  
-- 🎯 Preparing for developer roles  
 
 ---
 
