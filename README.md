@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
+<h1 align="center">Hi , I'm Lokesh</h1>
 <h3 align="center">Python Full Stack Developer 🚀</h3>
 
 ---
@@ -25,32 +25,32 @@ I am an aspiring Python Full Stack Developer with hands-on experience in buildin
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> 
 </p>
 
 ### 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5  
-  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>   
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> 
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> SQL  
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> SQL*Plus
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>   
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> 
 </p>
 
 ### 🧩 Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=django" height="40"/> Django  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> Bootstrap
+  <img src="https://skillicons.dev/icons?i=django" height="40"/>   
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> 
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
-  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub  
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>   
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>   
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
 </p>
 
 ---
