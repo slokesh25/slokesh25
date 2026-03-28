@@ -11,9 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
-<!-- TOP ANIMATION -->
+<!-- TOP ANIMATION (WORKING) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="650"/>
+  <img src="https://raw.githubusercontent.com/samadpls/awesome-github-profile-readme/master/assets/programming.gif" width="650"/>
 </p>
 
 ---
@@ -40,8 +40,8 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 <td width="40%" align="center">
 
-<!-- 🔥 NEW BOY CODER ANIMATION (UNIQUE) -->
-<img src="https://media.giphy.com/media/1oF1KAEwLqP8M/giphy.gif" width="300"/>
+<!-- RIGHT SIDE BOY CODER ANIMATION (FIXED) -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </td>
 </tr>
@@ -89,3 +89,33 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
   <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
+
+---
+
+## 📦 Project
+
+### 🚀 Job Tracker Web Application
+
+👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
+
+✨ Key Highlights:
+- Built using Python & Django  
+- Full CRUD operations  
+- SQL database integration  
+- Job status tracking system  
+- Clean UI with validation  
+
+---
+
+## 🎓 Certifications
+
+- 🏆 Python Full Stack Development  
+- 🎯 Power Minds Soft Skill Training Certification  
+
+---
+
+## 📫 Contact
+
+📧 Email: s.lokesh2545@gmail.com  
+📱 Phone: +91 9003852045  
+💼 LinkedIn: linkedin.com/in/s-lokesh-25  
