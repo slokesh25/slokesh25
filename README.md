@@ -1,58 +1,53 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">Aspiring Python Full Stack Developer</h3>
+<h3 align="center">Python Full Stack Developer</h3>
+
+---
+
+## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Full+Stack+Developer;Django+Developer;Frontend+Enthusiast;Open+to+Work" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
+
+I am an aspiring Python Full Stack Developer with hands-on experience in building scalable web applications.
+
+💡 Strong in:
+- Python (OOP, Data Structures, File Handling)
+- Django & Django REST Framework
+- HTML, CSS (Responsive Design, Flexbox, Grid)
+- SQL (Joins, Subqueries)
+
+🎯 Looking for an entry-level opportunity to grow and build real-world applications.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=django" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 </p>
 
 ---
 
-## 🎬 About Me
+## 📦 Project
 
-👨‍💻 I'm Lokesh, an aspiring Python Full Stack Developer passionate about building scalable web applications.
+### 🚀 Job Tracker Project
 
-💡 I have hands-on experience in:
-- Python (OOP, Data Structures, File Handling)
-- Django & Django REST Framework
-- HTML, CSS (Responsive Design, Flexbox, Grid)
-- SQL (Joins, Subqueries, DDL, DML)
+👉 **[Click Here to View Project](https://github.com/slokesh25/job_tracker_project)**
 
-🎯 Currently looking for an entry-level opportunity to grow and contribute to real-world projects.
-
----
-
-## 🛠 Skills
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄 Database
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 📦 Projects
-
-### 🚀 Job Tracker Web Application
-- Built using Python & Django
-- CRUD operations for managing job applications
-- Status tracking (Applied, Interview, Offer, Rejected)
-- Responsive UI using HTML & CSS
-- SQL database integration
-
-🔗 Check it out: https://github.com/slokesh25
+💻 Features:
+- Track job applications easily
+- Add, update, delete job details (CRUD)
+- Job status tracking (Applied, Interview, Offer, Rejected)
+- Built using Django + SQL
+- Clean and responsive UI
 
 ---
 
@@ -73,31 +68,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=slokesh25&theme=tokyonight" />
 </p>
-
----
-
-## 🔗 Connect with Me
-
-📧 Email: s.lokesh2545@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/s-lokesh-25  
-🐙 GitHub: https://github.com/slokesh25  
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slokesh25&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🎥 Animation Section (Add your GIF here)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
-</p>
-
----
-
-⭐ From [Lokesh](https://github.com/slokesh25)
