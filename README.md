@@ -5,56 +5,44 @@
 
 ## 👨‍💻 About Me
 
-I am an aspiring Python Full Stack Developer with hands-on experience in building scalable web applications.
+<table>
+<tr>
+<td width="60%">
 
-💡 Strong in:
-- Python (OOP, Data Structures, File Handling)
-- Django & Django REST Framework
-- HTML, CSS (Responsive Design)
-- SQL (Joins, Queries)
+I am a passionate **Python Full Stack Developer** with strong interest in building scalable and user-friendly web applications.
 
-🎯 Looking for an entry-level opportunity to grow and build real-world applications.
+💡 I enjoy working on:
+- Backend development using Django  
+- Designing responsive frontend UI  
+- Writing clean and efficient code  
+- Solving real-world problems through projects  
 
----
+🎯 Currently focused on improving my full stack skills and building real-time applications.
 
-## 🎬 My Work Style
+</td>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
-</p>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python
-</p>
-
-### 🌐 Frontend Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5  
-  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3
-</p>
-
-### ⚙️ Backend & Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> SQL  
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> SQL*Plus
-</p>
-
-### 🧩 Frameworks  
-<p>
-  <img src="https://skillicons.dev/icons?i=django" height="40"/> Django  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> Bootstrap
-</p>
-
-### 🧰 Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
-  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub  
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=django" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 </p>
 
 ---
@@ -63,23 +51,16 @@ I am an aspiring Python Full Stack Developer with hands-on experience in buildin
 
 ### 🚀 Job Tracker Project
 
-👉 **[View Job Tracker Project](https://github.com/slokesh25/job_tracker_project)**
-
-💻 Features:
-- Track job applications
-- CRUD operations
-- Status tracking (Applied, Interview, Offer, Rejected)
-- Built using Django & SQL
-- Responsive UI
+👉 **[View Project](https://github.com/slokesh25/job_tracker_project)**
 
 ---
 
-## 💡 What I’m Currently Doing
+## 💡 What I’m Doing
 
-- 🚀 Improving Django & Backend Skills  
-- 📚 Practicing Data Structures in Python  
+- 🚀 Learning advanced Django concepts  
 - 💻 Building real-world projects  
-- 🎯 Preparing for Developer Jobs  
+- 📚 Improving problem-solving skills  
+- 🎯 Preparing for developer roles  
 
 ---
 
