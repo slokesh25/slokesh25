@@ -40,8 +40,8 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 <td width="40%" align="center">
 
-<!-- BOY DEVELOPER ANIMATION -->
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
+<!-- 🔥 NEW BOY CODER ANIMATION (UNIQUE) -->
+<img src="https://media.giphy.com/media/1oF1KAEwLqP8M/giphy.gif" width="300"/>
 
 </td>
 </tr>
