@@ -1,37 +1,23 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 <h3 align="center">Python Full Stack Developer 🚀</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+I am a passionate <b>Python Full Stack Developer</b> with hands-on experience in developing scalable and efficient web applications.
 
-👋 Hello! I am a passionate <b>Python Full Stack Developer</b>  
-
-💻 I love building scalable and user-friendly web applications  
-
-🚀 I enjoy working on:
+💡 Key strengths:
 - ⚙️ Backend development using Django  
-- 🎨 Designing responsive frontend UI  
-- 🧠 Writing clean and efficient code  
-- 🔍 Solving real-world problems  
+- 🎨 Responsive frontend design using HTML & CSS  
+- 🧠 Writing clean, maintainable, and efficient code  
+- 🔍 Strong problem-solving ability  
 
-📈 Always learning and improving my skills  
-
-🎯 Currently focused on becoming a strong Full Stack Developer  
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-
-</td>
-</tr>
-</table>
+🎯 Currently seeking an entry-level opportunity to apply my skills and grow as a developer.
 
 ---
 
@@ -73,17 +59,19 @@
 
 ### 🚀 Job Tracker Web Application
 
-👉 <a href="https://github.com/slokesh25/job_tracker_project">Click here to view project</a>
+👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
 
-💼 Project Details:
-- Developed a Job Tracker web application using Python and Django  
-- Implemented CRUD operations to add, update, delete, and view job applications  
-- Designed a responsive UI using HTML and CSS  
-- Integrated SQL database to store company, role, and application status  
-- Implemented job status tracking (Applied, Interview, Offer, Rejected)  
-- Used Django models, views, and templates for backend logic  
-- Built forms with validation for adding and updating applications  
-- Improved usability for managing multiple job applications  
+💼 Description:
+A full-stack web application developed using Python and Django to efficiently manage and track job applications.
+
+🔧 Key Features:
+- Implemented complete CRUD functionality for managing job records  
+- Designed a responsive and user-friendly interface using HTML & CSS  
+- Integrated SQL database for storing job details such as company, role, and status  
+- Enabled job status tracking (Applied, Interview, Offer, Rejected)  
+- Developed backend logic using Django models, views, and templates  
+- Implemented form validation for secure and accurate data entry  
+- Optimized usability for handling multiple job applications  
 
 ---
 
@@ -96,10 +84,10 @@
 
 ## 💡 What I’m Doing
 
-- 🚀 Improving Django & backend skills  
-- 💻 Building real-world projects  
-- 📚 Practicing problem solving  
-- 🎯 Preparing for developer roles  
+- 🚀 Enhancing Django & backend development skills  
+- 💻 Building real-world full stack projects  
+- 📚 Practicing problem-solving and DSA  
+- 🎯 Preparing for software developer roles  
 
 ---
 
