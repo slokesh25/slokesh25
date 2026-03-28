@@ -11,9 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Scalable+Web+Apps" />
 </p>
 
-<!-- NEW Top Anime Animation -->
+<!-- NEW TOP ANIMATION (Anime Coding - Different) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="650"/>
 </p>
 
 ---
@@ -24,24 +24,24 @@
 <tr>
 <td width="60%">
 
-👋 I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
+👋 I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in web development.
 
 🚀 I specialize in:
-- ⚙️ Developing backend systems using Django  
-- 🌐 Creating responsive and clean frontend designs  
-- 🗄️ Managing databases with SQL  
-- 🧠 Writing structured, maintainable code  
+- ⚙️ Django backend development  
+- 🌐 Responsive frontend design  
+- 🗄️ SQL database handling  
+- 🧠 Writing clean & scalable code  
 
-📈 I enjoy learning new technologies and applying them to real-world projects.
+📈 I enjoy building real-world applications and continuously improving my skills.
 
-🎯 Currently seeking an entry-level role to contribute, learn, and grow as a developer.
+🎯 Actively seeking an opportunity to start my career as a developer.
 
 </td>
 
 <td width="40%" align="center">
 
-<!-- NEW Different Anime Animation -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<!-- NEW RIGHT SIDE ANIMATION (Different Anime) -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 
 </td>
 </tr>
