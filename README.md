@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Enthusiast;Full+Stack+Learner;Building+Cool+Projects" />
+### 🚀 Python Developer | Django | SQL  
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Enthusiast;Full+Stack+Learner;Building+Real+World+Projects" />
 
 </div>
 
@@ -14,46 +16,53 @@
 
 - 💻 Passionate about Python & Django  
 - 📊 Strong in SQL & Database  
-- 🌐 HTML, CSS Developer  
-- ⚙️ Git, GitHub, VS Code user  
-- 🚀 Future Full Stack Developer  
+- 🌐 Skilled in HTML, CSS  
+- ⚙️ Git, GitHub, VS Code  
+- 🚀 Focused on Full Stack Development  
 
 ---
 
-## 🛠️ Tech Stack (Animated Style)
+# 🛠️ Tech Stack  
 
-<div align="center">
+## 🚀 Frontend Development  
 
-### 🚀 Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=python,django,mysql" />
-
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-### ⚙️ Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="80"/>
+</p>
 
 ---
 
-## 🔥 Animated Badges Style (LIKE VIDEO EFFECT)
+## ⚙️ Backend & Database  
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00F7FF)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=00F7FF)
-![SQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00F7FF)
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=00F7FF)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=00F7FF)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00F7FF)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00F7FF)
-
-</div>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="80"/>
+</p>
 
 ---
 
-## 🎥 Unique About Me (Video Style Section)
+## 🧩 Frameworks  
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="80"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms  
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="80"/>
+</p>
+
+---
+
+## 🎥 About Me (Animated Section)
 
 <div align="center">
 
@@ -71,8 +80,10 @@
 - CRUD operations implemented  
 - Responsive UI with HTML & CSS  
 - SQL database integration  
-- Job status tracking system  
-- Form validation & dynamic pages  
+- Job status tracking (Applied, Interview, Offer, Rejected)  
+- Django models, views, templates used  
+- Form validation implemented  
+- Efficient job tracking system  
 
 ---
 
@@ -97,6 +108,6 @@
 
 ## ⚡ Fun Fact  
 
-💡 I build real-world projects 🚀  
+💡 I love building real-world applications 🚀  
 
 ---
