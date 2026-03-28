@@ -1,23 +1,41 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">Python Full Stack Developer 🚀</h3>
+<h3 align="center">Full Stack Developer | Fresher 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate <b>Python Full Stack Developer</b> with hands-on experience in developing scalable and efficient web applications.
+<table>
+<tr>
+<td width="60%">
 
-💡 Key strengths:
-- ⚙️ Backend development using Django  
-- 🎨 Responsive frontend design using HTML & CSS  
-- 🧠 Writing clean, maintainable, and efficient code  
-- 🔍 Strong problem-solving ability  
+I am a passionate <b>Full Stack Developer</b> eager to build scalable and efficient web applications.
 
-🎯 Currently seeking an entry-level opportunity to apply my skills and grow as a developer.
+💡 I focus on:
+- ⚙️ Backend development with Django  
+- 🎨 Clean and responsive UI  
+- 🧠 Writing efficient code  
+- 🔍 Solving real-world problems  
+
+🎯 Looking for opportunities to start my career and grow as a developer.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,17 +79,12 @@ I am a passionate <b>Python Full Stack Developer</b> with hands-on experience in
 
 👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
 
-💼 Description:
-A full-stack web application developed using Python and Django to efficiently manage and track job applications.
-
-🔧 Key Features:
-- Implemented complete CRUD functionality for managing job records  
-- Designed a responsive and user-friendly interface using HTML & CSS  
-- Integrated SQL database for storing job details such as company, role, and status  
-- Enabled job status tracking (Applied, Interview, Offer, Rejected)  
-- Developed backend logic using Django models, views, and templates  
-- Implemented form validation for secure and accurate data entry  
-- Optimized usability for handling multiple job applications  
+✨ Key Highlights:
+- Built using Python & Django  
+- Full CRUD operations  
+- SQL database integration  
+- Job status tracking system  
+- Clean UI with form validation  
 
 ---
 
@@ -84,10 +97,10 @@ A full-stack web application developed using Python and Django to efficiently ma
 
 ## 💡 What I’m Doing
 
-- 🚀 Enhancing Django & backend development skills  
-- 💻 Building real-world full stack projects  
-- 📚 Practicing problem-solving and DSA  
-- 🎯 Preparing for software developer roles  
+- 🚀 Improving backend development skills  
+- 💻 Building real-world projects  
+- 📚 Practicing problem solving  
+- 🎯 Preparing for developer roles  
 
 ---
 
