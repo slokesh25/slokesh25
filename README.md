@@ -2,9 +2,7 @@
 
 <div align="center">
 
-### 🚀 Python Developer | Django | SQL  
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Enthusiast;Full+Stack+Learner;Building+Cool+Projects" />
 
 </div>
 
@@ -12,39 +10,55 @@
 
 ## 🧑‍💻 About Me  
 
-<div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-</div>
+<img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 💻 Passionate about building web apps using Python & Django  
+- 💻 Passionate about Python & Django  
 - 📊 Strong in SQL & Database  
-- 🌐 Skilled in HTML, CSS  
-- ⚙️ Using Git, GitHub, VS Code  
-- 🚀 Focused on Full Stack Development  
+- 🌐 HTML, CSS Developer  
+- ⚙️ Git, GitHub, VS Code user  
+- 🚀 Future Full Stack Developer  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack (Animated Style)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=django" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+### 🚀 Languages & Frameworks  
+<img src="https://skillicons.dev/icons?i=python,django,mysql" />
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### ⚙️ Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-## 🎥 Unique About Me  
+## 🔥 Animated Badges Style (LIKE VIDEO EFFECT)
 
 <div align="center">
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00F7FF)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=00F7FF)
+![SQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00F7FF)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=00F7FF)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=00F7FF)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00F7FF)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00F7FF)
+
+</div>
+
+---
+
+## 🎥 Unique About Me (Video Style Section)
+
+<div align="center">
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
 </div>
 
 ---
@@ -54,13 +68,11 @@
 ### 🔹 Job Tracker Web Application  
 
 - Developed using Python & Django  
-- Implemented CRUD operations (Create, Read, Update, Delete)  
-- Responsive UI using HTML & CSS  
+- CRUD operations implemented  
+- Responsive UI with HTML & CSS  
 - SQL database integration  
-- Job status tracking (Applied, Interview, Offer, Rejected)  
-- Django models, views, templates used  
-- Form validation implemented  
-- Efficient job application management  
+- Job status tracking system  
+- Form validation & dynamic pages  
 
 ---
 
@@ -85,6 +97,6 @@
 
 ## ⚡ Fun Fact  
 
-💡 I build real-world projects and love coding 🚀  
+💡 I build real-world projects 🚀  
 
 ---
