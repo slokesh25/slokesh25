@@ -9,7 +9,7 @@
 <tr>
 <td width="60%">
 
-I am a passionate **Python Full Stack Developer** with strong interest in building scalable and user-friendly web applications.
+I am a passionate <b>Python Full Stack Developer</b> with strong interest in building scalable and user-friendly web applications.
 
 💡 I enjoy working on:
 - Backend development using Django  
@@ -33,16 +33,34 @@ I am a passionate **Python Full Stack Developer** with strong interest in buildi
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50"/>
-  <img src="https://skillicons.dev/icons?i=django" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+### 💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python
+</p>
+
+### 🌐 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5 &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3
+</p>
+
+### ⚙️ Backend & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> SQL &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> SQL*Plus
+</p>
+
+### 🧩 Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=django" height="40"/> Django &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> Bootstrap
+</p>
+
+### 🧰 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
 </p>
 
 ---
@@ -51,7 +69,7 @@ I am a passionate **Python Full Stack Developer** with strong interest in buildi
 
 ### 🚀 Job Tracker Project
 
-👉 **[View Project](https://github.com/slokesh25/job_tracker_project)**
+👉 <a href="https://github.com/slokesh25/job_tracker_project">Click here to view project</a>
 
 ---
 
