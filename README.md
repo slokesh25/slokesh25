@@ -1,13 +1,9 @@
-<h1 align="center">Hi , I'm Lokesh</h1>
+<h1 align="center">Hi 👋, I'm Lokesh</h1>
 <h3 align="center">Python Full Stack Developer 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
 
 I am an aspiring Python Full Stack Developer with hands-on experience in building scalable web applications.
 
@@ -21,36 +17,44 @@ I am an aspiring Python Full Stack Developer with hands-on experience in buildin
 
 ---
 
+## 🎬 My Work Style
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>   
-  <img src="https://skillicons.dev/icons?i=css" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5  
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>   
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> SQL  
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> SQL*Plus
 </p>
 
-### 🧩 Frameworks
+### 🧩 Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=django" height="40"/>   
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=django" height="40"/> Django  
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> Bootstrap
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>   
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>   
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub  
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
 </p>
 
 ---
@@ -70,20 +74,16 @@ I am an aspiring Python Full Stack Developer with hands-on experience in buildin
 
 ---
 
-## 📊 GitHub Stats
+## 💡 What I’m Currently Doing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slokesh25&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slokesh25&layout=compact&theme=tokyonight" />
-</p>
+- 🚀 Improving Django & Backend Skills  
+- 📚 Practicing Data Structures in Python  
+- 💻 Building real-world projects  
+- 🎯 Preparing for Developer Jobs  
 
 ---
 
-## 🔥 Streak Stats
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slokesh25&theme=tokyonight" />
-</p>
+📧 s.lokesh2545@gmail.com  
+💼 linkedin.com/in/s-lokesh-25  
