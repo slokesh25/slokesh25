@@ -11,9 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
-<!-- TOP ANIMATION (WORKING) -->
+<!-- ✅ FRONT ANIMATION (WORKING) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samadpls/awesome-github-profile-readme/master/assets/programming.gif" width="650"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="650"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 <td width="40%" align="center">
 
-<!-- RIGHT SIDE BOY CODER ANIMATION (FIXED) -->
+<!-- ✅ RIGHT SIDE BOY CODER ANIMATION (WORKING) -->
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </td>
