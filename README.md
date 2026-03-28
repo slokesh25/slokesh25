@@ -9,21 +9,25 @@
 <tr>
 <td width="60%">
 
-I am a passionate <b>Python Full Stack Developer</b> with strong interest in building scalable and user-friendly web applications.
+👋 Hello! I am a passionate <b>Python Full Stack Developer</b>  
 
-💡 I enjoy working on:
-- Backend development using Django  
-- Designing responsive frontend UI  
-- Writing clean and efficient code  
-- Solving real-world problems through projects  
+💻 I love building scalable and user-friendly web applications  
 
-🎯 Currently focused on improving my full stack skills and building real-time applications.
+🚀 I enjoy working on:
+- ⚙️ Backend development using Django  
+- 🎨 Designing responsive frontend UI  
+- 🧠 Writing clean and efficient code  
+- 🔍 Solving real-world problems  
+
+📈 Always learning and improving my skills  
+
+🎯 Currently focused on becoming a strong Full Stack Developer  
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
 </td>
 </tr>
@@ -67,22 +71,40 @@ I am a passionate <b>Python Full Stack Developer</b> with strong interest in bui
 
 ## 📦 Project
 
-### 🚀 Job Tracker Project
+### 🚀 Job Tracker Web Application
 
 👉 <a href="https://github.com/slokesh25/job_tracker_project">Click here to view project</a>
+
+💼 Project Details:
+- Developed a Job Tracker web application using Python and Django  
+- Implemented CRUD operations to add, update, delete, and view job applications  
+- Designed a responsive UI using HTML and CSS  
+- Integrated SQL database to store company, role, and application status  
+- Implemented job status tracking (Applied, Interview, Offer, Rejected)  
+- Used Django models, views, and templates for backend logic  
+- Built forms with validation for adding and updating applications  
+- Improved usability for managing multiple job applications  
+
+---
+
+## 🎓 Certifications
+
+- 🏆 Python Full Stack Development  
+- 🎯 Power Minds Soft Skill Training Certification  
 
 ---
 
 ## 💡 What I’m Doing
 
-- 🚀 Learning advanced Django concepts  
+- 🚀 Improving Django & backend skills  
 - 💻 Building real-world projects  
-- 📚 Improving problem-solving skills  
+- 📚 Practicing problem solving  
 - 🎯 Preparing for developer roles  
 
 ---
 
 ## 📫 Contact
 
-📧 s.lokesh2545@gmail.com  
-💼 linkedin.com/in/s-lokesh-25  
+📧 Email: s.lokesh2545@gmail.com  
+📱 Phone: +91 9003852045  
+💼 LinkedIn: linkedin.com/in/s-lokesh-25  
