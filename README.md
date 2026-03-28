@@ -1,123 +1,47 @@
-# 👋 Hi, I'm Lokesh  
-
-<div align="center">
-
-### 🚀 Python Developer | Django | SQL  
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Enthusiast;Full+Stack+Learner;Building+Real+World+Projects" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Lokesh</h1>
+<h3 align="center">Aspiring Software Developer | Python & Web Enthusiast</h3>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🚀 Tech Stack
 
-<img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+### 🌐 Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</p>
 
-- 💻 Passionate about Python & Django  
-- 📊 Strong in SQL & Database  
-- 🌐 Skilled in HTML, CSS  
-- ⚙️ GitHub, VS Code  
-- 🚀 Focused on Full Stack Development  
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+</p>
 
----
+### 🖥️ Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+</p>
 
-# 🛠️ Tech Stack  
-
-## 🐍 Programming Languages  
-
-<p align="center">
-  <!-- Python -->
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/>
+### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
 ---
 
-## 🚀 Frontend Development  
-
+## 🎬 Fun Animation
 <p align="center">
-  <!-- HTML -->
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80"/>
-  <!-- CSS -->
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </p>
 
 ---
 
-## ⚙️ Backend & Database  
-
+## 📊 GitHub Stats
 <p align="center">
-  <!-- Django -->
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"/>
-  <!-- SQL -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokesh&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh&theme=radical" alt="GitHub Streak"/>
 </p>
-
----
-
-## 🧩 Frameworks  
-
-<p align="center">
-  <!-- Django -->
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80"/>
-  <!-- Bootstrap -->
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="80"/>
-</p>
-
----
-
-## 🛠️ Tools & Platforms  
-
-<p align="center">
-  <!-- GitHub -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80"/>
-  <!-- VS Code -->
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80"/>
-</p>
-
----
-
-## 🎥 About Me (Animation Section)  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
-
----
-
-## 📌 Featured Project  
-
-### 🔹 Job Tracker Web Application  
-
-- Developed using Python & Django  
-- CRUD operations implemented  
-- Responsive UI using HTML & CSS  
-- SQL database integration  
-- Job status tracking (Applied, Interview, Offer, Rejected)  
-- Django models, views, templates used  
-- Form validation implemented  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=slokesh25&show_icons=true&theme=tokyonight" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=slokesh25&theme=tokyonight" height="150"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me  
-
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
-
----
-
-## ⚡ Fun Fact  
-
-💡 I love building real-world applications 🚀  
