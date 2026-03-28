@@ -8,12 +8,12 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
-<!-- 🔥 NEW TOP ANIMATION -->
+<!-- 🔥 NEW TOP ANIMATION (Different from above) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samadpls/awesome-github-profile-readme/master/assets/programming.gif" width="650"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="650"/>
 </p>
 
 ---
@@ -24,21 +24,24 @@
 <tr>
 <td width="60%">
 
-👋 I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in web development.
+👋 Passionate <b>Full Stack Developer</b>  
 
-🚀 I specialize in:
-- ⚙️ Django backend development  
-- 🌐 Responsive frontend design  
+🚀 I build scalable web applications using Django and modern frontend technologies.
+
+💡 Strong in:
+- ⚙️ Backend logic & APIs  
+- 🎨 Clean UI design  
 - 🗄️ SQL database handling  
-- 🧠 Writing clean & scalable code  
+- 🧠 Problem solving  
 
-🎯 Actively seeking an opportunity to start my career as a developer.
+🎯 Looking for a fresher role to kickstart my career.
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+<!-- 🔥 NEW RIGHT SIDE ANIMATION -->
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 
 </td>
 </tr>
