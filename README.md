@@ -17,28 +17,26 @@
 - 💻 Passionate about Python & Django  
 - 📊 Strong in SQL & Database  
 - 🌐 Skilled in HTML, CSS  
-- ⚙️ Git, GitHub, VS Code  
+- ⚙️ GitHub, VS Code  
 - 🚀 Focused on Full Stack Development  
 
 ---
 
 # 🛠️ Tech Stack  
 
-## 🧠 Programming Languages  
+## 🐍 Programming Languages  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"/><br>
-  <sub>Python</sub>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/>
 </p>
 
 ---
 
-## 🎨 Frontend Development  
+## 🚀 Frontend Development  
 
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"/><br>
-  <sub>HTML &nbsp;&nbsp;&nbsp;&nbsp; CSS</sub>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"/>
 </p>
 
 ---
@@ -46,9 +44,8 @@
 ## ⚙️ Backend & Database  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/><br>
-  <sub>Django &nbsp;&nbsp;&nbsp;&nbsp; SQL</sub>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
 </p>
 
 ---
@@ -57,8 +54,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="80"/><br>
-  <sub>Django &nbsp;&nbsp;&nbsp;&nbsp; Bootstrap</sub>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80"/>
 </p>
 
 ---
@@ -66,18 +62,17 @@
 ## 🛠️ Tools & Platforms  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/2x0VePimPaFZZ3w1Yh/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80"/><br>
-  <sub>Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; VS Code</sub>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80"/>
 </p>
 
 ---
 
-## 🎥 About Me (Animation Section)
+## 🎥 About Me (Animation Section)  
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 ---
@@ -118,5 +113,3 @@
 ## ⚡ Fun Fact  
 
 💡 I love building real-world applications 🚀  
-
----
