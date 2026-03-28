@@ -11,9 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Scalable+Web+Apps" />
 </p>
 
-<!-- NEW TOP ANIMATION (Anime Coding - Different) -->
+<!-- 🔥 NEW TOP ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="650"/>
+  <img src="https://raw.githubusercontent.com/samadpls/awesome-github-profile-readme/master/assets/programming.gif" width="650"/>
 </p>
 
 ---
@@ -32,15 +32,12 @@
 - 🗄️ SQL database handling  
 - 🧠 Writing clean & scalable code  
 
-📈 I enjoy building real-world applications and continuously improving my skills.
-
 🎯 Actively seeking an opportunity to start my career as a developer.
 
 </td>
 
 <td width="40%" align="center">
 
-<!-- NEW RIGHT SIDE ANIMATION (Different Anime) -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 
 </td>
@@ -89,33 +86,3 @@
   <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
-
----
-
-## 📦 Project
-
-### 🚀 Job Tracker Web Application
-
-👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
-
-✨ Key Highlights:
-- Built using Python & Django  
-- Full CRUD operations  
-- SQL database integration  
-- Job status tracking system  
-- Clean UI with validation  
-
----
-
-## 🎓 Certifications
-
-- 🏆 Python Full Stack Development  
-- 🎯 Power Minds Soft Skill Training Certification  
-
----
-
-## 📫 Contact
-
-📧 Email: s.lokesh2545@gmail.com  
-📱 Phone: +91 9003852045  
-💼 LinkedIn: linkedin.com/in/s-lokesh-25  
