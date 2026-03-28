@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
-<!-- 🔥 NEW TOP ANIMATION (Different from above) -->
+<!-- TOP ANIMATION -->
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="650"/>
 </p>
@@ -24,24 +24,24 @@
 <tr>
 <td width="60%">
 
-👋 Passionate <b>Full Stack Developer</b>  
+I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
 
-🚀 I build scalable web applications using Django and modern frontend technologies.
+🚀 I specialize in:
+- ⚙️ Developing backend systems using Django  
+- 🌐 Creating responsive and clean frontend designs  
+- 🗄️ Managing databases with SQL  
+- 🧠 Writing structured, maintainable code  
 
-💡 Strong in:
-- ⚙️ Backend logic & APIs  
-- 🎨 Clean UI design  
-- 🗄️ SQL database handling  
-- 🧠 Problem solving  
+📈 I enjoy learning new technologies and applying them to real-world projects.
 
-🎯 Looking for a fresher role to kickstart my career.
+🎯 Currently seeking an entry-level role to contribute, learn, and grow as a developer.
 
 </td>
 
 <td width="40%" align="center">
 
-<!-- 🔥 NEW RIGHT SIDE ANIMATION -->
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+<!-- BOY DEVELOPER ANIMATION -->
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
 
 </td>
 </tr>
