@@ -27,6 +27,7 @@
 ## 🐍 Programming Languages  
 
 <p align="center">
+  <!-- Python -->
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/>
 </p>
 
@@ -35,7 +36,9 @@
 ## 🚀 Frontend Development  
 
 <p align="center">
+  <!-- HTML -->
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80"/>
+  <!-- CSS -->
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"/>
 </p>
 
@@ -44,7 +47,9 @@
 ## ⚙️ Backend & Database  
 
 <p align="center">
+  <!-- Django -->
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"/>
+  <!-- SQL -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
 </p>
 
@@ -53,8 +58,10 @@
 ## 🧩 Frameworks  
 
 <p align="center">
+  <!-- Django -->
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80"/>
+  <!-- Bootstrap -->
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="80"/>
 </p>
 
 ---
@@ -62,9 +69,10 @@
 ## 🛠️ Tools & Platforms  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80"/>
+  <!-- GitHub -->
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80"/>
+  <!-- VS Code -->
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80"/>
 </p>
 
 ---
@@ -95,9 +103,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=slokesh25&show_icons=true&theme=tokyonight" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" height="150"/>
+<img src="https://streak-stats.demolab.com?user=slokesh25&theme=tokyonight" height="150"/>
 
 </div>
 
