@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 <h3 align="center">Full Stack Developer | Fresher 🚀</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
+<!-- New Animation Video -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 </p>
 
 ---
@@ -17,7 +19,7 @@
 <tr>
 <td width="60%">
 
-I am a passionate <b>Full Stack Developer</b> eager to build scalable and efficient web applications.
+👋 I am a passionate <b>Full Stack Developer</b> eager to build scalable and efficient web applications.
 
 💡 I focus on:
 - ⚙️ Backend development with Django  
