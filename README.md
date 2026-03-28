@@ -44,11 +44,12 @@
 ##  Backend & Database  
 
 <p>
-  <!-- Django (GIF Effect) -->
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"/>
+  <!-- Django Logo (GIF Effect) -->
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="90" style="margin:10px"/>
 
-  <!-- SQL (GIF Effect) -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
+  <!-- SQL Logo (GIF Effect) -->
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90" style="margin:10px"/>
+
 </p>
 
 ---
