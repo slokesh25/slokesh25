@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
-  <span style="background-color:#0e75b6; color:white; padding:6px 12px; border-radius:8px;">
+  <span style="background-color:#0e75b6; color:white; padding:8px 14px; border-radius:10px;">
     Full Stack Developer | Fresher 🚀
   </span>
 </h3>
@@ -11,9 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
-<!-- Anime Coding Animation -->
+<!-- TOP Anime Coding Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 </p>
 
 ---
@@ -24,21 +24,22 @@
 <tr>
 <td width="60%">
 
-👋 I am a passionate <b>Full Stack Developer</b>  
+👋 Passionate <b>Full Stack Developer</b>  
 
-💡 I focus on:
-- ⚙️ Backend development with Django  
-- 🎨 Clean UI & responsive design  
-- 🧠 Writing efficient code  
-- 🔍 Solving real-world problems  
+💡 Skilled in:
+- ⚙️ Django backend development  
+- 🎨 Responsive frontend design  
+- 🧠 Clean & efficient coding  
+- 🔍 Problem solving  
 
-🎯 Looking for opportunities to start my career and grow as a developer.
+🎯 Looking for entry-level opportunities to grow and contribute.
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="300"/>
+<!-- About Anime Animation -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
 </td>
 </tr>
@@ -48,26 +49,43 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/> &nbsp;&nbsp;&nbsp;
+---
 
-<img src="https://skillicons.dev/icons?i=html" height="50"/> &nbsp;&nbsp;&nbsp;
+### 🌐 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=css" height="50"/> &nbsp;&nbsp;&nbsp;
+---
 
-<img src="https://skillicons.dev/icons?i=django" height="50"/> &nbsp;&nbsp;&nbsp;
+### ⚙️ Backend & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="45"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/> &nbsp;&nbsp;&nbsp;
+---
 
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/> &nbsp;&nbsp;&nbsp;
+### 🧩 Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=django" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git" height="50"/> &nbsp;&nbsp;&nbsp;
+---
 
-<img src="https://skillicons.dev/icons?i=github" height="50"/> &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-
+### 🧰 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
 
 ---
