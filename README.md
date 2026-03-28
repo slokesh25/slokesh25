@@ -43,7 +43,11 @@
 
 ##  Backend & Database  
 
-<p align="center">
+<p>
+  <!-- Django (GIF Effect) -->
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"/>
+
+  <!-- SQL (GIF Effect) -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
 </p>
 
