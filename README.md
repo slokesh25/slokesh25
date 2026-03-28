@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">Python Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Python+Django+Developer;Frontend+%2B+Backend;Open+to+Work" />
 </p>
 
 I am an aspiring Python Full Stack Developer with hands-on experience in building scalable web applications.
@@ -14,25 +14,34 @@ I am an aspiring Python Full Stack Developer with hands-on experience in buildin
 💡 Strong in:
 - Python (OOP, Data Structures, File Handling)
 - Django & Django REST Framework
-- HTML, CSS (Responsive Design, Flexbox, Grid)
-- SQL (Joins, Subqueries)
+- HTML, CSS (Responsive Design)
+- SQL (Joins, Queries)
 
 🎯 Looking for an entry-level opportunity to grow and build real-world applications.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50"/>
-  <img src="https://skillicons.dev/icons?i=django" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-</p>
+### Programming Languages  
+Python  
+
+### Frontend Development  
+HTML5  
+CSS3  
+
+### Backend & Database  
+SQL  
+SQL*Plus  
+
+### Frameworks  
+Django  
+Bootstrap  
+
+### Tools & Platforms  
+Git  
+GitHub  
+VS Code  
 
 ---
 
@@ -40,14 +49,14 @@ I am an aspiring Python Full Stack Developer with hands-on experience in buildin
 
 ### 🚀 Job Tracker Project
 
-👉 **[Click Here to View Project](https://github.com/slokesh25/job_tracker_project)**
+👉 **[View Job Tracker Project](https://github.com/slokesh25/job_tracker_project)**
 
 💻 Features:
-- Track job applications easily
-- Add, update, delete job details (CRUD)
+- Track job applications
+- CRUD operations (Add, Update, Delete)
 - Job status tracking (Applied, Interview, Offer, Rejected)
-- Built using Django + SQL
-- Clean and responsive UI
+- Built with Django & SQL
+- Responsive UI using HTML & CSS
 
 ---
 
