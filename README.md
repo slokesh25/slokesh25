@@ -24,24 +24,24 @@
 
 # 🛠️ Tech Stack  
 
-## 🐍 Programming Languages  
+##  Programming Languages  
 
-<p align="center">
+<p>
    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
 </p>
 
 ---
 
-## 🚀 Frontend Development  
+##  Frontend Development  
 
-<p align="center">
+<p >
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80"/>
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"/>
 </p>
 
 ---
 
-## ⚙️ Backend & Database  
+##  Backend & Database  
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
@@ -49,7 +49,7 @@
 
 ---
 
-## 🧩 Frameworks  
+##  Frameworks  
 
 <p align="center">
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80"/>
@@ -58,7 +58,7 @@
 
 ---
 
-## 🛠️ Tools & Platforms  
+##  Tools & Platforms  
 
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/>
