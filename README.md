@@ -34,8 +34,8 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 </td>
 
-<td width="60%" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+<td width="70%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </td>
 </tr>
 </table>
