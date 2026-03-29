@@ -1,6 +1,3 @@
-<!-- 🔥 TOP ANIMATION HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Lokesh&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
-
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
