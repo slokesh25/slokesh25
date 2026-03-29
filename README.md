@@ -1,20 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-
-<h3 align="center">
-  <span style="background-color:#0e75b6; color:white; padding:8px 14px; border-radius:10px;">
-    Full Stack Developer | Fresher 🚀
-  </span>
-</h3>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
-</p>
-
-<!-- TOP Anime Coding Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
-</p>
+<h3 align="center">Python Full Stack Developer 🚀</h3>
 
 ---
 
@@ -24,22 +9,21 @@
 <tr>
 <td width="60%">
 
-👋 Passionate <b>Full Stack Developer</b>  
+I am a passionate <b>Python Full Stack Developer</b> with strong interest in building scalable and user-friendly web applications.
 
-💡 Skilled in:
-- ⚙️ Django backend development  
-- 🎨 Responsive frontend design  
-- 🧠 Clean & efficient coding  
-- 🔍 Problem solving  
+💡 I enjoy working on:
+- Backend development using Django  
+- Designing responsive frontend UI  
+- Writing clean and efficient code  
+- Solving real-world problems through projects  
 
-🎯 Looking for entry-level opportunities to grow and contribute.
+🎯 Currently focused on improving my full stack skills and building real-time applications.
 
 </td>
 
 <td width="40%" align="center">
 
-<!-- About Anime Animation -->
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </td>
 </tr>
@@ -51,69 +35,54 @@
 
 ### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python
 </p>
-
----
 
 ### 🌐 Frontend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5 &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3
 </p>
-
----
 
 ### ⚙️ Backend & Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> SQL &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> SQL*Plus
 </p>
-
----
 
 ### 🧩 Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=django" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40"/> Django &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> Bootstrap
 </p>
-
----
 
 ### 🧰 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
 </p>
 
 ---
 
 ## 📦 Project
 
-### 🚀 Job Tracker Web Application
+### 🚀 Job Tracker Project
 
-👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
-
-✨ Key Highlights:
-- Built using Python & Django  
-- Full CRUD operations  
-- SQL database integration  
-- Job status tracking system  
-- Clean UI with validation  
+👉 <a href="https://github.com/slokesh25/job_tracker_project">Click here to view project</a>
 
 ---
 
-## 🎓 Certifications
+## 💡 What I’m Doing
 
-- 🏆 Python Full Stack Development  
-- 🎯 Power Minds Soft Skill Training Certification  
+- 🚀 Learning advanced Django concepts  
+- 💻 Building real-world projects  
+- 📚 Improving problem-solving skills  
+- 🎯 Preparing for developer roles  
 
 ---
 
 ## 📫 Contact
 
-📧 Email: s.lokesh2545@gmail.com  
-📱 Phone: +91 9003852045  
-💼 LinkedIn: linkedin.com/in/s-lokesh-25
+📧 s.lokesh2545@gmail.com  
+💼 linkedin.com/in/s-lokesh-25
