@@ -6,18 +6,18 @@
   </span>
 </h3>
 
-<!-- Typing Animation -->
+<!-- 🔥 TOP ANIMATION (Typing Effect) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Backend+Developer;Full+Stack+Developer" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-<!-- 🔥 YOUR VIDEO (GIF FORMAT ONLY) -->
+<!-- 🔥 YOUR VIDEO (GIF ONLY) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/slokesh25/job_tracker_project/main/animation.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/job_tracker_project/main/animation.gif" width="100%"/>
 </p>
 
 <table>
@@ -40,7 +40,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 <td width="40%" align="center">
 
-<!-- ✅ RIGHT SIDE ANIMATION -->
+<!-- 🔥 RIGHT SIDE CODER ANIMATION -->
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </td>
@@ -53,40 +53,32 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
 </p>
 
----
-
 ### 🌐 Frontend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
   <img src="https://skillicons.dev/icons?i=css" height="45"/>
 </p>
 
----
-
 ### ⚙️ Backend & Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="45"/>
 </p>
 
----
-
 ### 🧩 Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=django" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="45"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 </p>
 
----
-
 ### 🧰 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
 
@@ -96,21 +88,13 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ### 🚀 Job Tracker Web Application
 
-👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
+👉 <a href="https://github.com/YOUR_USERNAME/job_tracker_project" target="_blank">View Project</a>
 
-✨ Key Highlights:
-- Built using Python & Django  
+✨ Key Features:
+- Django-based backend  
 - Full CRUD operations  
-- SQL database integration  
-- Job status tracking system  
-- Clean UI with validation  
-
----
-
-## 🎓 Certifications
-
-- 🏆 Python Full Stack Development  
-- 🎯 Power Minds Soft Skill Training Certification  
+- SQL database  
+- Job tracking dashboard  
 
 ---
 
@@ -118,4 +102,4 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 📧 Email: s.lokesh2545@gmail.com  
 📱 Phone: +91 9003852045  
-💼 LinkedIn: linkedin.com/in/s-lokesh-25  
+💼 LinkedIn: https://linkedin.com/in/s-lokesh-25  
