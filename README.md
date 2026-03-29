@@ -11,9 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
-<!-- 🔥 BRAND NEW TOP ANIMATION (NOT REPEATED) -->
+<!-- 🔥 CODING RELATED TOP ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
 </p>
 
 ---
