@@ -13,7 +13,7 @@
 
 <!-- Coding Animation -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dsYWFkcXI5MGxwaTMzbHduNmc4ZzVrZnQybjdtanhmdXZoeTdpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="800"/>
 </p>
 ## 👨‍💻 About Me
 
