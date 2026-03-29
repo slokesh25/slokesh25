@@ -1,41 +1,49 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
-Full Stack Developer | Fresher 🚀
+  <span style="background-color:#0e75b6; color:white; padding:8px 14px; border-radius:10px;">
+    Full Stack Developer | Fresher 🚀
+  </span>
 </h3>
 
-<!-- TOP TYPING ANIMATION -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Developer;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
+</p>
+
+<!-- TOP ANIMATION (WORKING) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samadpls/awesome-github-profile-readme/master/assets/programming.gif" width="650"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-
 <td width="60%">
 
 I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
 
 🚀 I specialize in:
-- Django Backend  
-- Responsive Frontend  
-- SQL Database  
-- Clean Code  
+- ⚙️ Developing backend systems using Django  
+- 🌐 Creating responsive and clean frontend designs  
+- 🗄️ Managing databases with SQL  
+- 🧠 Writing structured, maintainable code  
 
-🎯 Looking for a fresher role.
+📈 I enjoy learning new technologies and applying them to real-world projects.
+
+🎯 Currently seeking an entry-level role to contribute, learn, and grow as a developer.
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+<!-- RIGHT SIDE BOY CODER ANIMATION (FIXED) -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -43,21 +51,71 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,bootstrap,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+</p>
+
+---
+
+### 🌐 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+</p>
+
+---
+
+### ⚙️ Backend & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="45"/>
+</p>
+
+---
+
+### 🧩 Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=django" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+</p>
+
+---
+
+### 🧰 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
 
 ---
 
 ## 📦 Project
 
-### Job Tracker Web App
+### 🚀 Job Tracker Web Application
 
-👉 https://github.com/slokesh25/job_tracker_project
+👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
+
+✨ Key Highlights:
+- Built using Python & Django  
+- Full CRUD operations  
+- SQL database integration  
+- Job status tracking system  
+- Clean UI with validation  
+
+---
+
+## 🎓 Certifications
+
+- 🏆 Python Full Stack Development  
+- 🎯 Power Minds Soft Skill Training Certification  
 
 ---
 
 ## 📫 Contact
 
-📧 s.lokesh2545@gmail.com  
-📱 +91 9003852045  
+📧 Email: s.lokesh2545@gmail.com  
+📱 Phone: +91 9003852045  
+💼 LinkedIn: linkedin.com/in/s-lokesh-25
