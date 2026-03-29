@@ -13,9 +13,8 @@
 
 <!-- Coding Animation -->
 <p align="center">
-  <img src="https://i.ibb.co/8L3ZzWq/git-video.gif" width="700"/>
+  <img src="https://i.ibb.co/spMkrQhd/BBB.gif" width="700"/>
 </p>
----
 
 ## 👨‍💻 About Me
 
