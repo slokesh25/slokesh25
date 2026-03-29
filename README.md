@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
+<h1 align="center">Hi 🤵, I'm Lokesh</h1>
 
 <h3 align="center">
   <span style="background-color:#0e75b6; color:white; padding:8px 14px; border-radius:10px;">
