@@ -8,12 +8,12 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
-<!-- NEW Top Anime Animation -->
+<!-- TOP Anime Coding Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 </p>
 
 ---
@@ -24,24 +24,22 @@
 <tr>
 <td width="60%">
 
-👋 I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
+👋 Passionate <b>Full Stack Developer</b>  
 
-🚀 I specialize in:
-- ⚙️ Developing backend systems using Django  
-- 🌐 Creating responsive and clean frontend designs  
-- 🗄️ Managing databases with SQL  
-- 🧠 Writing structured, maintainable code  
+💡 Skilled in:
+- ⚙️ Django backend development  
+- 🎨 Responsive frontend design  
+- 🧠 Clean & efficient coding  
+- 🔍 Problem solving  
 
-📈 I enjoy learning new technologies and applying them to real-world projects.
-
-🎯 Currently seeking an entry-level role to contribute, learn, and grow as a developer.
+🎯 Looking for entry-level opportunities to grow and contribute.
 
 </td>
 
 <td width="40%" align="center">
 
-<!-- NEW Different Anime Animation -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<!-- About Anime Animation -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
 </td>
 </tr>
