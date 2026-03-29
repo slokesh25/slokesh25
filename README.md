@@ -1,4 +1,4 @@
-<table width="600">
+<table width="300">
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
