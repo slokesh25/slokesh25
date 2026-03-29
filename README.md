@@ -14,11 +14,6 @@
   <img src="https://media.giphy.com/media/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="800"/>
 </p>
 
-<!-- 🔥 CODING RELATED TOP ANIMATION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
