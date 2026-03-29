@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
-  <span style="background: linear-gradient(90deg,#00c6ff,#0072ff); color:white; padding:10px 18px; border-radius:10px;">
+  <span style="background:#0e75b6; color:white; padding:10px 18px; border-radius:10px;">
     Full Stack Developer | Fresher 🚀
   </span>
 </h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
+</p>
 
 ---
 
 ## 🌟 About Me
 
-<!-- 🔥 TOP FULL STACK IMAGE (LIKE YOUR SCREENSHOT) -->
+<!-- 🔥 YOUR VIDEO (GIF FORMAT ONLY) -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/slokesh25/job_tracker_project/main/animation.gif" width="100%"/>
 </p>
 
 <table>
@@ -35,7 +40,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 <td width="40%" align="center">
 
-<!-- ✅ RIGHT SIDE BOY CODER -->
+<!-- ✅ RIGHT SIDE ANIMATION -->
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </td>
@@ -91,7 +96,6 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ### 🚀 Job Tracker Web Application
 
-<!-- ✅ FIXED PROJECT LINK -->
 👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
 
 ✨ Key Highlights:
