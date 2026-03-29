@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=250&section=header&text=Lokesh&fontSize=50&fontColor=00F7FF&animation=fadeIn"/>
+<!-- 🔥 TOP ANIMATION HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Lokesh&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
@@ -7,9 +9,9 @@
   </span>
 </h3>
 
-<!-- Typing Animation -->
+<!-- ✅ NEW CUSTOM ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;Frontend+Developer" />
 </p>
 
 <!-- Coding Animation -->
@@ -25,7 +27,7 @@
 <tr>
 <td width="60%">
 
-I'm an enthusiastic <b>Full Stack Developer</b with a strong foundation in building dynamic and user-friendly web applications.
+I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
 
 🚀 I specialize in:
 - ⚙️ Django Backend Development  
