@@ -8,7 +8,7 @@
 
 <!-- ✅ NEW ANIMATION (ONLY 3 TEXTS) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;"Full Stack Developer"/>
 </p>
 
 <!-- Coding Animation -->
