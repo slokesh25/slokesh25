@@ -1,20 +1,17 @@
-<div align="center">
-
-<table width="800">
-<tr>
-<td>
-
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
-  <span style="background: linear-gradient(90deg,#00c6ff,#0072ff); color:white; padding:10px 18px; border-radius:12px;">
-    🚀 Full Stack Developer | Fresher
+  <span style="background-color:#0e75b6; color:white; padding:8px 14px; border-radius:10px;">
+    Full Stack Developer | Fresher 🚀
   </span>
 </h3>
 
-<!-- 🔥 Coding Animation (Reduced + Clean) -->
+
+
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="900"/>
 </p>
 
 ---
@@ -33,7 +30,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 - 🗄️ Managing databases with SQL  
 - 🧠 Writing structured, maintainable code  
 
-📈 I enjoy learning new technologies and applying them to real-world projects.  
+📈 I enjoy learning new technologies and applying them to real-world projects.
 
 🎯 Currently seeking an entry-level role to contribute, learn, and grow as a developer.
 
@@ -41,7 +38,8 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260"/>
+<!-- ✅ RIGHT SIDE ANIMATION (UNCHANGED) -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </td>
 </tr>
@@ -52,7 +50,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python" height="45"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
 </p>
@@ -60,7 +58,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 ---
 
 ### 🌐 Frontend Development  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html" height="45"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="45"/>
 </p>
@@ -68,7 +66,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 ---
 
 ### ⚙️ Backend & Database  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="45"/>
 </p>
@@ -76,7 +74,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 ---
 
 ### 🧩 Frameworks  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=django" height="45"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 </p>
@@ -84,7 +82,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 ---
 
 ### 🧰 Tools & Platforms  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
@@ -96,12 +94,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ### 🚀 Job Tracker Web Application
 
-<p align="center">
-  <a href="https://github.com/slokesh25/job_tracker_project" target="_blank"
-     style="background:#0072ff; color:white; padding:10px 18px; border-radius:10px; text-decoration:none;">
-     🔗 View Project
-  </a>
-</p>
+👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
 
 ✨ Key Highlights:
 - Built using Python & Django  
@@ -123,10 +116,4 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 📧 Email: s.lokesh2545@gmail.com  
 📱 Phone: +91 9003852045  
-💼 LinkedIn: linkedin.com/in/s-lokesh-25  
-
-</td>
-</tr>
-</table>
-
-</div>
+💼 LinkedIn: linkedin.com/in/s-lokesh-25
