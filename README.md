@@ -13,9 +13,8 @@
 
 <!-- Coding Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=200&lines=Full+Stack+Development;Frontend+Developer;Backend+Developer" />
+  <img src="https://i.ibb.co/8L3ZzWq/git-video.gif" width="700"/>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
