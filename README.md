@@ -11,9 +11,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <p align="center">
   <img src="https://media.giphy.com/media/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="800"/>
-</p>font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
 </p>
 
 <!-- 🔥 CODING RELATED TOP ANIMATION -->
