@@ -13,9 +13,8 @@
 
 <!-- Coding Animation -->
 <p align="center">
-  <img src="https://i.ibb.co/spMkrQhd/BBB.gif"/>
+  <img src="https://i.ibb.co/spMkrQhd/BBB.gif" style="width:700px;"/>
 </p>
-
 ## 👨‍💻 About Me
 
 <table>
