@@ -13,7 +13,7 @@
 
 <!-- Coding Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="900"/>
 </p>
 ## 👨‍💻 About Me
 
@@ -89,7 +89,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ### 🚀 Job Tracker Web Application
 
-<p align="center">
+<p>
   <a href="https://github.com/slokesh25/python_django_job_tracker_project" target="_blank"
      style="background:#0e75b6; color:white; padding:10px 18px; border-radius:10px; text-decoration:none; font-weight:bold;">
      🔗 View Project
