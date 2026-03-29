@@ -93,7 +93,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 ### 🚀 Job Tracker Web Application
 
 <p>
-  <a href="https://github.com/slokesh25/python_job_tracker_project" target="_blank"
+  <a href="https://github.com/slokesh25/python_django_job_tracker_project" target="_blank"
      style="background:#0e75b6; color:white; padding:10px 18px; border-radius:10px; text-decoration:none; font-weight:bold;">
      🔗 View Project
   </a>
