@@ -1,3 +1,6 @@
+<!-- 🔥 TOP ANIMATION HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Lokesh&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
@@ -24,7 +27,7 @@
 <tr>
 <td width="60%">
 
-I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
+I'm an enthusiastic <b>Full Stack Developer</b with a strong foundation in building dynamic and user-friendly web applications.
 
 🚀 I specialize in:
 - ⚙️ Django Backend Development  
@@ -92,7 +95,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ### 🚀 Job Tracker Web Application
 
-<p>
+<p align="center">
   <a href="https://github.com/slokesh25/python_django_job_tracker_project" target="_blank"
      style="background:#0e75b6; color:white; padding:10px 18px; border-radius:10px; text-decoration:none; font-weight:bold;">
      🔗 View Project
