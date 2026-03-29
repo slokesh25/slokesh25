@@ -13,7 +13,7 @@
 
 <!-- Coding Animation -->
 <p align="center">
-  <img src="https://i.ibb.co/spMkrQhd/BBB.gif" width="700"/>
+  <img src="https://i.ibb.co/spMkrQhd/BBB.gif"/>
 </p>
 
 ## 👨‍💻 About Me
