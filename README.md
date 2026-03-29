@@ -8,12 +8,12 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Backend+Developer;Building+Scalable+Web+Apps" />
 </p>
 
-<!-- TOP ANIMATION (WORKING) -->
+<!-- NEW Top Anime Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samadpls/awesome-github-profile-readme/master/assets/programming.gif" width="650"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 <tr>
 <td width="60%">
 
-I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
+👋 I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
 
 🚀 I specialize in:
 - ⚙️ Developing backend systems using Django  
@@ -40,8 +40,8 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 <td width="40%" align="center">
 
-<!-- RIGHT SIDE BOY CODER ANIMATION (FIXED) -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+<!-- NEW Different Anime Animation -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 </td>
 </tr>
