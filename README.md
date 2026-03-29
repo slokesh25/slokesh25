@@ -1,3 +1,4 @@
+<table width="800">
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 
 <h3 align="center">
@@ -117,3 +118,4 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 📧 Email: s.lokesh2545@gmail.com  
 📱 Phone: +91 9003852045  
 💼 LinkedIn: linkedin.com/in/s-lokesh-25
+</table>
