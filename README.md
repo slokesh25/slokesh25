@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <span style="background-color:#0e75b6; color:white; padding:8px 14px; border-radius:10px;">
-    Full Stack Developer | Fresher 🚀
+    Full Stack Developer | Fresher 🧑‍💻
   </span>
 </h3>
 
