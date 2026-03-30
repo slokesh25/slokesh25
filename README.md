@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
+<h1 align="center">Hi 🧑‍💻, I'm Lokesh</h1>
 
 <h3 align="center">
   <span style="background-color:#0e75b6; color:white; padding:8px 14px; border-radius:10px;">
-    Full Stack Developer | Fresher 🚀
+    Full Stack Developer | Fresher 🤵
   </span>
 </h3>
 
@@ -94,7 +94,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ### 🚀 Job Tracker Web Application
 
-👉 <a href="https://github.com/slokesh25/job_tracker_project" target="_blank">View Project</a>
+👉 <a href="https://github.com/slokesh25/python_django_job_tracker_project" target="_blank">View Project</a>
 
 ✨ Key Highlights:
 - Built using Python & Django  
