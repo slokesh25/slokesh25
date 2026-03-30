@@ -39,7 +39,7 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 <td width="40%" align="center">
 
 <!-- ✅ RIGHT SIDE ANIMATION (UNCHANGED) -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" height="340"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="400"/>
 
 </td>
 </tr>
