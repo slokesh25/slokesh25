@@ -114,6 +114,8 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ## 📫 Contact
 
-📧 Email: s.lokesh2545@gmail.com  
-📱 Phone: +91 9003852045  
-💼 LinkedIn: linkedin.com/in/s-lokesh-25
+## 📫 Contact
+
+📧 Email: <a href="mailto:s.lokesh2545@gmail.com">s.lokesh2545@gmail.com</a>  
+📱 Phone: <a href="tel:+919003852045">+91 9003852045</a>  
+💼 LinkedIn: <a href="https://www.linkedin.com/in/s-lokesh25/" target="_blank">linkedin.com/in/s-lokesh25</a>
