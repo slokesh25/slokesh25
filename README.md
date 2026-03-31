@@ -13,11 +13,12 @@
 
 <!-- Typing Animation --> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=80&section=header&text=Full%20Stack%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=100&section=header&text=Full%20Stack%20Developer&fontSize=32&fontColor=00F7FF&animation=fadeIn&fontAlignY=50"/>
 </p>
+
 <p align="center">
-  <div style="display:inline-block; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.3);">
-    <img src="https://camo.githubusercontent.com/b284ec62c0726ac1866c9487e42bc1b3b463f673e21c4c8cf27cb08b746b5967/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a797730546e686541474e2d4c506e654461546c6178772e676966" width="100%" style="vertical-align:middle;" />
+  <div style="display:inline-block; border-radius:15px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.4); border:2px solid #00F7FF;">
+    <img src="https://camo.githubusercontent.com/b284ec62c0726ac1866c9487e42bc1b3b463f673e21c4c8cf27cb08b746b5967/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a797730546e686541474e2d4c506e654461546c6178772e676966" width="100%" />
   </div>
 </p>
 ---
