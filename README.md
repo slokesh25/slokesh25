@@ -6,6 +6,10 @@
   </span>
 </h3>
 
+<!-- 🔤 TEXT ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Python+%7C+Django+Developer"/>
+</p>
 
 
 
