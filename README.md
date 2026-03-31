@@ -10,9 +10,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Python+%7C+Django+Developer;Building+Scalable+Web+Applications;Continuous+Learner" />
 </p>
+
 <!-- Typing Animation --> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=80&section=header&text=Full%20Stack%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=80&section=header&text=Full%20Stack%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <p align="center">
   <div style="display:inline-block; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.3);">
