@@ -11,15 +11,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Python+%7C+Django+Developer;Building+Scalable+Web+Applications;Continuous+Learner" />
 </p>
 
-<!-- Typing Animation --> 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=80&section=header&text=Full%20Stack%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://media.giphy.com/media/7y7tAzuzTOVMjgx7Rc/giphy.gif" width="900"/>
 </p>
-<p align="center">
-  <div style="display:inline-block; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.3);">
-    <img src="https://camo.githubusercontent.com/b284ec62c0726ac1866c9487e42bc1b3b463f673e21c4c8cf27cb08b746b5967/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a797730546e686541474e2d4c506e654461546c6178772e676966" width="100%" style="vertical-align:middle;" />
-  </div>
-</p>
+
 ---
 
 ## 👨‍💻 About Me
