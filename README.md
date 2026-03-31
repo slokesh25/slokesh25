@@ -8,10 +8,8 @@
 
 <!-- 🔤 TEXT ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Python+%7C+Django+Developer";Building+Scalable+Web+Applications;/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Python+%7C+Django+Developer;Building+Scalable+Web+Applications;Continuous+Learner" />
 </p>
-
-
 
 <!-- Typing Animation -->
 <p align="center">
