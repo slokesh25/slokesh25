@@ -30,6 +30,7 @@
 I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in building dynamic and user-friendly web applications.
 
 🚀 I specialize in:
+- 🐍 Strong proficiency in Python for backend development
 - ⚙️ Developing backend systems using Django  
 - 🌐 Creating responsive and clean frontend designs  
 - 🗄️ Managing databases with SQL  
