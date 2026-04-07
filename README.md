@@ -55,43 +55,35 @@ I'm an enthusiastic <b>Full Stack Developer</b> with a strong foundation in buil
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages  
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100" title="Python"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="10" height="100" title="JavaScript"/>
 </p>
 
----
-
-### 🌐 Frontend Development  
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100" title="HTML5"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100" title="CSS3"/>
 </p>
 
----
-
-### ⚙️ Backend & Database  
+### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="45"/>
+  <img src="https://editor.analyticsvidhya.com/uploads/36882wired1.gif" width="100" height="100" title="SQL"/>
+ <img src="./sqlplus_final_logo_white.gif" width="100" height="100" title="SQL*Plus"/>
 </p>
 
----
-
-### 🧩 Frameworks  
+### Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=django" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+  <img src="https://maxmautner.com/public/images/django.gif" width="100" height="100" title="Django"/>
+  <img src="https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/giphy-6.gif" width="100" height="100" title="Bootstrap"/>
 </p>
 
----
-
-### 🧰 Tools & Platforms  
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" height="100" title="Git"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" height="100" title="GitHub"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100" title="VS Code"/>
 </p>
 
 ---
